@@ -7,10 +7,10 @@ const config = {
       pages: 'build',
       assets: 'build',
       fallback: '200.html'
-    })
-  },
-  paths: {
-    base: process.env.BASE_PTH || '',
+    }),
+    paths: {
+      base: process.env.BASE_PATH || '',
+    }
   },
   preprocess: vitePreprocess()
 };
