@@ -27,7 +27,7 @@
         {/each}
     </div>
     <a 
-        href="#" 
+        href="https://www.linkedin.com/in/david-battye-9932665a/" 
         target="_blank"
         class="blueShadow rleative overflow-hidden px-5 py-2 group rounded-full bg-white text-slate-950">
         <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"/>

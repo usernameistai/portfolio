@@ -31,7 +31,7 @@
                 My <span class="text-violet-400">favourite tech</span> includes Javascript (Vite.js, React.js or SvelteKit), TailWindCSS, Node.js + Express.js, Heroku & Render
             </p>
             <a 
-                href="#" 
+                href="https://www.linkedin.com/in/david-battye-9932665a/" 
                 target="_blank"
                 class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">
                 <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200" />
@@ -39,7 +39,7 @@
             </a>
         </div>
         <div class="relative shadow-2xl grid place-items-center">
-            <img src={"images/prof.png"} alt="Profile Image" class="object-cover z-[2] max-h-[70vh]">
+            <img src={"images/prof.png"} alt="" class="object-cover z-[2] max-h-[70vh]">
         </div>
     </section>
 
